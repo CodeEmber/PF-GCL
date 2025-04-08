@@ -1,4 +1,4 @@
-# PF-GCL++: Preference-Fusion Graph Contrastive Learning for Recommendation
+# PF-GCL++: Parameter-Free Graph Contrastive Learning for Mitigating Oversmoothing in Recommender Systems
 
 ![Model](./asset/pfgcl.png)
 
