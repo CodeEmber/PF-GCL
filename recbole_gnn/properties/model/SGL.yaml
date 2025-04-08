@@ -1,0 +1,34 @@
+# type: "ED"
+# n_layers: 3
+# ssl_tau: 0.5
+# reg_weight: 1e-5
+# ssl_weight: 0.05
+# drop_ratio: 0.1
+# embedding_size: 64
+
+# yelp
+# type: "ED"
+# n_layers: 3
+# ssl_tau: 0.5
+# reg_weight: 1e-5
+# ssl_weight: 0.05
+# drop_ratio: 0.1
+# embedding_size: 64
+
+# Kindle
+# type: "ED"
+# n_layers: 3
+# ssl_tau: 0.2
+# reg_weight: 1e-4
+# ssl_weight: 0.5
+# drop_ratio: 0.1
+# embedding_size: 64
+
+# book
+type: "ED"
+n_layers: 3
+ssl_tau: 0.2
+reg_weight: 1e-4
+ssl_weight: 0.5
+drop_ratio: 0.1
+embedding_size: 64

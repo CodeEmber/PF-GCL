@@ -1,0 +1,40 @@
+# embedding_size: 64
+# n_layers: 2
+# reg_weight: 0.0001
+
+# lambda: 1
+# eps: 0.2
+# temperature: 0.2
+# layer_cl: 1
+# require_pow: True
+
+# kindle
+embedding_size: 64
+n_layers: 3
+reg_weight: 0.0001
+
+lambda: 0.02
+eps: 0
+temperature: 0.2
+layer_cl: 1
+require_pow: True
+# yelp
+# embedding_size: 64
+# n_layers: 2
+# reg_weight: 0.0001
+
+# lambda: 0.1
+# eps: 0
+# temperature: 0.2
+# layer_cl: 1
+# require_pow: True
+# book
+# embedding_size: 64
+# n_layers: 1
+# reg_weight: 0.0001
+
+# lambda: 0.2
+# eps: 0.1
+# temperature: 0.2
+# layer_cl: 1
+# require_pow: True

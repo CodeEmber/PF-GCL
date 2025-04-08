@@ -1,0 +1,7 @@
+embedding_size: 64
+
+temperature: 0.1
+alpha: 0.5
+lmbd_reg: 1e-4
+lmbd_ssl: 0.05
+layer: 3
