@@ -43,6 +43,12 @@ For hyperparameter tuning, you can use:
 python run_hyper.py --model=[model_name] --dataset=[dataset_name] --config_files=[config_files_path]
 ```
 
+### Configuration Files
+
+The configuration files for datasets can be found in the `properties/` folder (e.g., `properties/yelp.yaml`, `properties/amazon-books.yaml`). These files contain dataset-specific settings such as filtering criteria and preprocessing parameters.
+
+Model-specific configuration files are located in the `recbole_gnn/properties/model/` directory. These files define the hyperparameters for each model, such as embedding size, learning rate, and regularization coefficients.
+
 ## Datasets
 
 PF-GCL++ primarily focuses on three widely-used benchmark datasets for recommendation tasks:
